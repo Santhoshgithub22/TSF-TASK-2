@@ -1,6 +1,9 @@
 # Prediction Using Unsupervised ML
 
 In this task I predicted the optimum number of clusters and represent it visually.
+
+Libraries used : Pandas, NumPy, Matplotlib, Seaborn
+Algorithm Used : K Means Clustering (Unsupervised ML)
 ## Author
 
 - Santhosh Kumar M
